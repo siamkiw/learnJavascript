@@ -1,1 +1,19 @@
-[{"items":[{"id":"9317ff17","quantity":1},{"id":"ac3d7258","quantity":1},{"id":"f6b1fbbc","quantity":1}],"id":"29547d64"}]
+[
+    {
+        "items": [
+            {
+                "id": "9317ff17",
+                "quantity": 1
+            },
+            {
+                "id": "ac3d7258",
+                "quantity": 1
+            },
+            {
+                "id": "f6b1fbbc",
+                "quantity": 1
+            }
+        ],
+        "id": "29547d64"
+    }
+]
